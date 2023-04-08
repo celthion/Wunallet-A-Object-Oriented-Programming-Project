@@ -16,3 +16,5 @@ convencionales, como por ejemplo Nequi y ahorro a la mano, pero que a diferencia
 integra múltiples bancos en su portafolio; lo que permite, entre otras cosas, hacer
 transferencias entre bancos o solicitudes de crédito a diferentes entidades, desde una
 misma interfaz.
+
+Las diversas funcionalidades, clases, pruebas de escritorio, entre otras cosas relevantes se especifican en la memoria escrita correspondiente.
