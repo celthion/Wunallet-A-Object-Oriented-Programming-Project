@@ -19,5 +19,5 @@ misma interfaz.
 
 Las diversas funcionalidades, clases, pruebas de escritorio, entre otras cosas relevantes se especifican en la memoria escrita correspondiente.
 
-El proyecto desarrollado en java cuenta con una interfaz por consola, mientras el desarrollado en python cuenta con una interfaz grafica, ambos responden al
+El proyecto desarrollado en java cuenta con una interfaz por consola, mientras el desarrollado en python cuenta con una interfaz grafica y un manejo de errores, ambos responden al
 mismo modelamiento por objetos.
